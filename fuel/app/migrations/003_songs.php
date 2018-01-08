@@ -1,7 +1,7 @@
 <?php
 namespace Fuel\Migrations;
 
-class Users
+class Songs
 {
 
     function up()
